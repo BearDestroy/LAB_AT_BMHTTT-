@@ -1,0 +1,170 @@
+
+ProcessName                Id Path                                                                                                                        
+-----------                -- ----                                                                                                                        
+AggregatorHost           4628 C:\WINDOWS\System32\AggregatorHost.exe                                                                                      
+ApplicationFrameHost     3788 C:\WINDOWS\system32\ApplicationFrameHost.exe                                                                                
+conhost                  5912 C:\WINDOWS\system32\conhost.exe                                                                                             
+conhost                  9624 C:\WINDOWS\system32\conhost.exe                                                                                             
+conhost                   920 C:\WINDOWS\system32\conhost.exe                                                                                             
+conhost                  4388 C:\WINDOWS\system32\conhost.exe                                                                                             
+CrossDeviceResume        5940 C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe                                       
+csrss                     668                                                                                                                             
+csrss                     580                                                                                                                             
+ctfmon                   7592 C:\WINDOWS\system32\ctfmon.exe                                                                                              
+dllhost                  7892 C:\WINDOWS\system32\DllHost.exe                                                                                             
+dllhost                  6368 C:\WINDOWS\system32\DllHost.exe                                                                                             
+dllhost                  3860 C:\WINDOWS\system32\dllhost.exe                                                                                             
+dumpcap                  1800 C:\Program Files\Wireshark\dumpcap.exe                                                                                      
+dwm                       440 C:\WINDOWS\system32\dwm.exe                                                                                                 
+explorer                 5312 C:\WINDOWS\Explorer.EXE                                                                                                     
+FileCoAuth               9516 C:\Users\LAB3USER\AppData\Local\Microsoft\OneDrive\26.163.0823.0004\FileCoAuth.exe                                      
+fontdrvhost               968 C:\WINDOWS\system32\fontdrvhost.exe                                                                                         
+fontdrvhost               964 C:\WINDOWS\system32\fontdrvhost.exe                                                                                         
+Idle                        0                                                                                                                             
+lsass                     820                                                                                                                             
+Memory Compression        776                                                                                                                             
+MicrosoftEdgeUpdate      3832 C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe                                                         
+MoNotificationUx         4472 C:\WINDOWS\uus\packages\preview\AMD64\MoNotificationUx.exe                                                                  
+MpDefenderCoreService    9420                                                                                                                             
+msdtc                    4056 C:\WINDOWS\System32\msdtc.exe                                                                                               
+msedge                   8956 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe                                                                
+msedge                   7380 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe                                                                
+msedge                  10024 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe                                                                
+msedge                   9908 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe                                                                
+msedge                   2428 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe                                                                
+msedge                   1036 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe                                                                
+msedge                   7344 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe                                                                
+msedge                   7340 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe                                                                
+msedgewebview2           9340 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\145.0.3800.97\msedgewebview2.exe                                   
+msedgewebview2           8640 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\145.0.3800.97\msedgewebview2.exe                                   
+msedgewebview2           8520 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\145.0.3800.97\msedgewebview2.exe                                   
+msedgewebview2           9820 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\145.0.3800.97\msedgewebview2.exe                                   
+msedgewebview2           9588 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\145.0.3800.97\msedgewebview2.exe                                   
+msedgewebview2           9404 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\145.0.3800.97\msedgewebview2.exe                                   
+msedgewebview2           5984 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\145.0.3800.97\msedgewebview2.exe                                   
+msedgewebview2           4944 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\145.0.3800.97\msedgewebview2.exe                                   
+msedgewebview2           3824 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\145.0.3800.97\msedgewebview2.exe                                   
+msedgewebview2           8468 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\145.0.3800.97\msedgewebview2.exe                                   
+msedgewebview2           7700 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\145.0.3800.97\msedgewebview2.exe                                   
+msedgewebview2           6544 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\145.0.3800.97\msedgewebview2.exe                                   
+MsMpEng                  8888                                                                                                                             
+NisSrv                   1692                                                                                                                             
+Notepad                  7884 C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2607.14.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe                   
+Notepad                  5696 C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2607.14.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe                   
+OneDrive                 9416 C:\Users\LAB3USER\AppData\Local\Microsoft\OneDrive\OneDrive.exe                                                         
+OpenConsole              2548 C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.24.11911.0_x64__8wekyb3d8bbwe\OpenConsole.exe                      
+powershell               6836 C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe                                                                   
+powershell               2872 C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe                                                                   
+powershell                  8 C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe                                                                   
+python                   8452 C:\Users\LAB3USER\AppData\Local\Programs\Python\Python314\python.exe                                                    
+Registry                  100                                                                                                                             
+RuntimeBroker            9920 C:\Windows\System32\RuntimeBroker.exe                                                                                       
+RuntimeBroker            6256 C:\Windows\System32\RuntimeBroker.exe                                                                                       
+RuntimeBroker            1128 C:\Windows\System32\RuntimeBroker.exe                                                                                       
+SearchHost               5104 C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe                                              
+SearchIndexer            1392 C:\WINDOWS\system32\SearchIndexer.exe                                                                                       
+SecurityHealthService    9660                                                                                                                             
+SecurityHealthSystray    9644 C:\Windows\System32\SecurityHealthSystray.exe                                                                               
+services                  800                                                                                                                             
+ShellExperienceHost      6460 C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe                                             
+ShellHost                5348 C:\Windows\System32\ShellHost.exe                                                                                           
+sihost                   4820 C:\WINDOWS\system32\sihost.exe                                                                                              
+smss                      412                                                                                                                             
+SnippingTool             6976 C:\Program Files\WindowsApps\Microsoft.ScreenSketch_11.2607.23.0_x64__8wekyb3d8bbwe\SnippingTool\SnippingTool.exe           
+spoolsv                  2888 C:\WINDOWS\System32\spoolsv.exe                                                                                             
+StartMenuExperienceHost  5852 C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe                   
+svchost                  4360 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  4432 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  3920                                                                                                                             
+svchost                  3952 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  4864 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  4916 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  4656                                                                                                                             
+svchost                  4692 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  3288 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  3100 C:\WINDOWS\System32\svchost.exe                                                                                             
+svchost                  3112 C:\WINDOWS\System32\svchost.exe                                                                                             
+svchost                  2996 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  3036 C:\WINDOWS\System32\svchost.exe                                                                                             
+svchost                  3192 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  3280 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  3120 C:\WINDOWS\System32\svchost.exe                                                                                             
+svchost                  3176 C:\WINDOWS\System32\svchost.exe                                                                                             
+svchost                  4960 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  8112 C:\WINDOWS\System32\svchost.exe                                                                                             
+svchost                  8372 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  7720 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  7728 C:\WINDOWS\System32\svchost.exe                                                                                             
+svchost                  9396 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                 10180 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  8460 C:\WINDOWS\System32\svchost.exe                                                                                             
+svchost                  9268 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  7028 C:\WINDOWS\System32\svchost.exe                                                                                             
+svchost                  5644 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  5700 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  5116 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  5196 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  6240 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  6340 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  5756 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  6212                                                                                                                             
+svchost                  2680 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  1376 C:\WINDOWS\System32\svchost.exe                                                                                             
+svchost                  1444                                                                                                                             
+svchost                  1188 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  1252 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  1552 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  1580 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  1476 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  1492 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  1160 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                   656 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                   696 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                   240 C:\WINDOWS\System32\svchost.exe                                                                                             
+svchost                   508 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                   944 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  1016 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                   704 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                   912 C:\WINDOWS\System32\svchost.exe                                                                                             
+svchost                  1624 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  2364 C:\WINDOWS\System32\svchost.exe                                                                                             
+svchost                  2424 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  2300 C:\WINDOWS\System32\svchost.exe                                                                                             
+svchost                  2324 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  2488 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  2616 C:\WINDOWS\System32\svchost.exe                                                                                             
+svchost                  2432 C:\WINDOWS\System32\svchost.exe                                                                                             
+svchost                  2460 C:\WINDOWS\System32\svchost.exe                                                                                             
+svchost                  2160 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  1956 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  1968 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  1632 C:\WINDOWS\System32\svchost.exe                                                                                             
+svchost                  1824 C:\WINDOWS\System32\svchost.exe                                                                                             
+svchost                  2124 C:\WINDOWS\system32\svchost.exe                                                                                             
+svchost                  2152 C:\WINDOWS\System32\svchost.exe                                                                                             
+svchost                  1976 C:\WINDOWS\System32\svchost.exe                                                                                             
+svchost                  2000 C:\WINDOWS\system32\svchost.exe                                                                                             
+Sysmon64                 3720                                                                                                                             
+System                      4                                                                                                                             
+SystemSettings           2348 C:\Windows\ImmersiveControlPanel\SystemSettings.exe                                                                         
+taskhostw                5060 C:\WINDOWS\system32\taskhostw.exe                                                                                           
+TextInputHost            8044 C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe                                           
+TiWorker                 2456 C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.26100.8035_none_a54f1c79772e807e\TiWorker.exe
+TrustedInstaller         2608 C:\WINDOWS\servicing\TrustedInstaller.exe                                                                                   
+unsecapp                 4092 C:\WINDOWS\system32\wbem\unsecapp.exe                                                                                       
+VGAuthService            3208 C:\Program Files\VMware\VMware Tools\VMware VGAuth\VGAuthService.exe                                                        
+vm3dservice              3604 C:\Program Files\VMware\VMware Tools\vm3dservice.exe                                                                        
+vm3dservice              3232 C:\Program Files\VMware\VMware Tools\vm3dservice.exe                                                                        
+vmtoolsd                 6480 C:\Program Files\VMware\VMware Tools\vmtoolsd.exe                                                                           
+vmtoolsd                 3244 C:\Program Files\VMware\VMware Tools\vmtoolsd.exe                                                                           
+Widgets                  6360 C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_526.21100.40.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe  
+WidgetService            7296 C:\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.14.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe   
+WindowsTerminal          4712 C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.24.11911.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe                  
+wininit                   660                                                                                                                             
+winlogon                  728 C:\WINDOWS\system32\winlogon.exe                                                                                            
+Wireshark                4280 C:\Program Files\Wireshark\Wireshark.exe                                                                                    
+WmiPrvSE                 8284 C:\WINDOWS\system32\wbem\wmiprvse.exe                                                                                       
+WmiPrvSE                 6404 C:\WINDOWS\system32\wbem\wmiprvse.exe                                                                                       
+WmiPrvSE                 2644 C:\WINDOWS\system32\wbem\wmiprvse.exe                                                                                       
+
+
