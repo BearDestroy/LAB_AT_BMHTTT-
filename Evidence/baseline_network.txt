@@ -1,9 +1,0 @@
-
-
-InterfaceAlias       : Ethernet0
-InterfaceIndex       : 7
-InterfaceDescription : Intel(R) 82574L Gigabit Network Connection
-NetAdapter.Status    : Disconnected
-
-
-

@@ -1,8 +1,0 @@
-
-Count Name                    
------ ----                    
-  850 spammer@attacker.net    
-   12 alice@company.local     
-    2 marketing@newsletter.com
-
-

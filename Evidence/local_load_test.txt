@@ -1,8 +1,0 @@
-Starting local load test against http://127.0.0.1:8080...
-
-[RESULT]
-requests: 50
-workers: 5
-ok/failures: 50/0
-elapsed_s: 0.2821
-avg_latency_s: 0.0267
