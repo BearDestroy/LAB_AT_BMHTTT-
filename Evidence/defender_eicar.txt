@@ -1,0 +1,29 @@
+
+
+ThreatID             : 2147519003
+InitialDetectionTime : 9/22/2026 7:45:12 PM
+Resources            : {file:_C:\LAB3\Evidence\eicar.com.txt}
+ActionSuccess        : True
+
+ThreatID             : 2147519003
+InitialDetectionTime : 9/22/2026 7:39:03 PM
+Resources            : {file:_C:\LAB3\Evidence\eicar.com.txt}
+ActionSuccess        : True
+
+ThreatID             : 2147519003
+InitialDetectionTime : 9/22/2026 7:38:24 PM
+Resources            : {file:_C:\LAB3\Evidence\eicar.com.txt}
+ActionSuccess        : True
+
+ThreatID             : 2147519003
+InitialDetectionTime : 9/22/2026 7:33:15 PM
+Resources            : {file:_C:\LAB3\Evidence\eicar.com.txt}
+ActionSuccess        : True
+
+ThreatID             : 2147519003
+InitialDetectionTime : 9/22/2026 7:32:42 PM
+Resources            : {file:_C:\LAB3\Evidence\eicar.com.txt}
+ActionSuccess        : True
+
+
+

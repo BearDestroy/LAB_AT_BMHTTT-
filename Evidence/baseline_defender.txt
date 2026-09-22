@@ -1,0 +1,9 @@
+
+
+AntivirusEnabled          : True
+RealTimeProtectionEnabled : True
+IsTamperProtected         : True
+AntivirusSignatureVersion : 1.459.333.0
+
+
+
